@@ -113,7 +113,7 @@ library_content_dict = {
     "openbabel": "[Python Package] A chemical toolbox designed to speak the many languages of chemical data, supporting file format conversion and molecular modeling.",
     "descriptastorus": "[Python Package] A library for computing molecular descriptors for machine learning applications in drug discovery.",
     # "pymol": "[Python Package] A molecular visualization system for rendering and animating 3D molecular structures.",
-    "openmm": "[Python Package] A toolkit for molecular simulation using high-performance GPU computing.",
+    # "openmm": "[Python Package] A toolkit for molecular simulation using high-performance GPU computing.",
     "pytdc": "[Python Package] A Python package for Therapeutics Data Commons, providing access to machine learning datasets for drug discovery.",
     # Data Science & Statistical Analysis (Python)
     "pandas": "[Python Package] A fast, powerful, and flexible data analysis and manipulation library for Python.",
