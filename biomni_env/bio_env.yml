@@ -47,8 +47,8 @@ dependencies:
     - pyfaidx
     - pyranges
     - pybedtools
-    - openmm
-    - pystan
+    #- openmm
+    #- pystan
     - igraph
     - pyscenic
     - cooler
