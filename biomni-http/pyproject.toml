@@ -1,0 +1,25 @@
+[project]
+name = "biomni-api"
+version = "0.1.0"
+description = "FastAPI service for Biomni"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "fastapi[standard]",
+    "httpx>=0.28,<0.29",
+    "uvicorn[standard]>=0.36,<0.37"
+]
+
+[project.optional-dependencies]
+dev = [
+]
+
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+extend-select = ["I"]
